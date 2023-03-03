@@ -1,0 +1,35 @@
+body {
+  background-color: #fff;
+}
+
+.fifacaja {
+  justify-content: center;
+  display: flex;
+}
+
+.fifa {
+  width: 100%;
+}
+
+footer {
+  height: 50%;
+  color: #fff;
+  background-color: #1a1a1a;
+  padding: 15px;
+}
+
+.main1 {
+  margin: 0 auto;
+  display: flex;
+}
+
+a img:hover {
+  color: #fff;
+}
+
+.redes-footer {
+  width: 10px;
+  height: 30px;
+}
+
+/*# sourceMappingURL=index.fb7027bb.css.map */
